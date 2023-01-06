@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Morning Routine
 nav_order: 2
 ---
 
