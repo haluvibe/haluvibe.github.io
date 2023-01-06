@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Markdown kitchen sink
-nav_order: 99
+title: Morning Routine
+nav_order: 1
 ---
 
 test
