@@ -2,7 +2,7 @@
 layout: default
 title: Dopamine
 nav_order: 2
-parent: Neuro Transmitters
+parent: Neurotransmitters
 description: "Information regarding Dopamine."
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Seratonin
 nav_order: 3
-parent: Neuro Transmitters
+parent: Neurotransmitters
 description: "Information regarding Serotonin."
 ---
 
