@@ -10,6 +10,7 @@ permalink: /
 {: .fs-9 }
 
 **Dopamine Affects**
+
  -   blood flow
  -   digestion
  -   executive functioning
@@ -40,5 +41,6 @@ permalink: /
  - Low sex drive
 
 **Notes**
+
 Keep in mind that dopamine isn’t acting alone. It works with other neurotransmitters and hormones, such as serotonin and adrenaline.
 
