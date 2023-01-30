@@ -3,6 +3,7 @@ layout: default
 title: Seratonin
 nav_order: 3
 description: "Information regarding Serotonin."
+has_children: true
 ---
 
 # Seratonin
