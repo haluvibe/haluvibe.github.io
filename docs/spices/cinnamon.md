@@ -3,7 +3,6 @@ layout: default
 title: Cinnamon
 nav_order: 2
 parent: Spices
-has_children: true
 description: "Information regarding Cinnamon."
 ---
 

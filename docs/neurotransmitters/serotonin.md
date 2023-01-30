@@ -2,8 +2,8 @@
 layout: default
 title: Seratonin
 nav_order: 3
+parent: Neuro Transmitters
 description: "Information regarding Serotonin."
-has_children: true
 ---
 
 # Seratonin
