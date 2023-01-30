@@ -42,5 +42,7 @@ permalink: /
 
 **Notes**
 
-Keep in mind that dopamine isn’t acting alone. It works with other neurotransmitters and hormones, such as serotonin and adrenaline.
+Keep in mind that dopamine isn’t acting alone. 
+
+It works with other neurotransmitters and hormones, such as serotonin and adrenaline.
 
