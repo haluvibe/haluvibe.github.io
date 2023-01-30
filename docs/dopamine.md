@@ -3,7 +3,7 @@ layout: default
 title: Dopamine
 nav_order: 2
 description: "Information regarding Dopamine."
-permalink: /
+permalink: /docs/dopamine
 ---
 
 # Dopamine
