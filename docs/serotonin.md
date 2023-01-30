@@ -11,38 +11,43 @@ permalink: /
 
 **Serotonin Affects**
 
- -   blood flow
- -   digestion
- -   executive functioning
- -   heart and kidney function
- -   memory and focus
- -   mood and emotions
- -   motor control
- -   pain processing
- -   pancreatic function and insulin regulation
- -   pleasure and reward seeking behavior
- -   sleep
- -   stress response
+ - sleep 
+ - thermoregulation 
+ - learning and memory
+ - pain
+ - social behavior
+ - sexual activity
+ - feeding
+ - motor activity
+ - biological rhythms
+ - bone metabolism
+ - organ development
 
 **How to know if you have too much**
 
- - Poor impulse control 
- - Overly aggressive behaviour 
- - Overly competitive behaviour 
- - Hallucinations
+ - twitching muscles
+ - shivering
+ - restlessness and agitation
+ - fast heartbeat
+ - high temperature
+ - headache
+ - confusion
+ - dilated pupils
+ - goose bumps
 
 **How to know if you are deficient**
-
- - Poor circulation
- - Unmotivated
- - Poor sleep
- - Irritable
- - Stressed
- - Low sex drive
+ - memory problems
+ - feeling low
+ - craving sweet foods
+ - having problems sleeping
+ - feeling bad about yourself
+ - increased libido (sexual desire)
 
 **Notes**
 
 Keep in mind that serotonin isn’t acting alone. 
 
 It works with other neurotransmitters and hormones, such as dopamine and adrenaline.
+
+However, more than 90% of the body’s total serotonin resides in the enterochromaffin cells in the gut, where it helps regulate the movement of the digestive system
 
