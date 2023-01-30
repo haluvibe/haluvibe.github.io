@@ -13,7 +13,7 @@ nav_order: 1
  - 1/2 tsp of freshly ground black pepper
  - 1/2 tsp of ground cinnamon
  - Pinch of cayenne pepper
- - 1 tsp to 2 Tsb of Coconut MCT Oil
+ - 1 tsp Coconut MCT Oil
  
 Why?
 
